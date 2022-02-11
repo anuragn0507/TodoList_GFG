@@ -16,7 +16,7 @@ abstract  class ToDoDatabase: RoomDatabase() {
     }
 
 // Read about database migration
-    // Read about the export schema
+// Read about the export schema
 
 
 }
