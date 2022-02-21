@@ -12,6 +12,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 
+//GFG TodoList
 class MainActivity : AppCompatActivity(), ToDoInterface {
     lateinit var recyclerView: RecyclerView
     lateinit var toDoAdapter: ToDoAdapter
